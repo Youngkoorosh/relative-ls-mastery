@@ -9,7 +9,7 @@ Salib has just installed Linux and is learning its basics. With a busy schedule,
 - How to use the `ls` command with useful flags
 
 He has extracted a directory tree from Quera containing folders for **Alireza**, **Arshia**, and **Salib**:
-
+```
 quera
 ├── alireza
 │   ├── final
@@ -41,6 +41,7 @@ quera
         ├── 3.py
         ├── 4.py
         └── 5.py
+```
 
 ## 🧪 Task Breakdown
 
